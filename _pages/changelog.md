@@ -9,6 +9,13 @@ include_in_header: true
 
 ### `Latest`
 
+# **2.1**
+`Oct 28, 2019`
+- 🎈New: Quick Action buttons in Today Widget: Send Note and Take Photo
+- 🎈New: What's New section in Settings
+- 🐛Fixed: Empty Subject when sharing from Apple News
+- 🐛Fixed: Today Widget button labels are unreadable in Dark Mode
+
 # **2.0.2**
 `Oct 16, 2019`
 
