@@ -8,6 +8,12 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **2.2**
+`Jan 9, 2020`
+- 🎈New: Send file attachments from Shortcuts app
+- ⚙️Improved: File attachments can be up to 50MB in size when sending from the main app.
+- ⚙️Improved: Haptic feedback for various interactions in the app
+- 🐛Fixed "Unable to Load" Today Widget (fingers crossed)
 
 # **2.1**
 `Oct 28, 2019`
