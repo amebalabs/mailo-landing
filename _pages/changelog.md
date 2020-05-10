@@ -8,6 +8,10 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **2020.2**
+- 🎈New: Share extension now supports files (pdf, doc, etc.)
+- 🐛Bug fixes and improvements
+
 # **2.2**
 `Jan 9, 2020`
 - 🎈New: Send file attachments from Shortcuts app
