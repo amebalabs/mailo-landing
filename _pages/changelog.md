@@ -8,6 +8,12 @@ include_in_header: true
 <br>
 
 ### `Latest`
+# **2021.1**
+`May 15, 2021`
+- 🎈New advanced Twitter integration. Control the way you save tweets, configure in Settings - Message Details - Twitter
+- 🎈New alternative icon
+- 🐛Fixed Shortcuts would not run with empty Label
+
 # **2020.2**
 - 🎈New: Share extension now supports files (pdf, doc, etc.)
 - 🐛Bug fixes and improvements
