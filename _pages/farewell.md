@@ -6,7 +6,7 @@ include_in_header: true
 
 # Farewell
 
-## Mailo is shutting down
+## Mailo is Shutting Down
 
 If you're reading this, you probably updated to the latest version of Mailo and saw the message that Mailo is shutting down. There is nothing we can do about it.
 
@@ -26,7 +26,7 @@ What exactly do we mean by "more privately"? Here is what Mailo could do:
 
 Isn't that neat? We thought so too.
 
-## We're not alone
+## We're Not Alone
 
 Google has had an annual security audit of the apps using its API for a while now. What changed this year is that instead of Google doing it themselves for free, they outsourced it to "partners." And these partners charge for the service. And they are not cheap.
 
