@@ -26,9 +26,9 @@ What exactly do we mean by "more privately"? Here is what Mailo could do:
 
 Isn't that neat? We thought so too.
 
-## We're Not Alone
-
 Google has had an annual security audit of the apps using its API for a while now. What changed this year is that instead of Google doing it themselves for free, they outsourced it to "partners." And these partners charge for the service. And they are not cheap.
+
+## We're Not Alone
 
 Here are some other apps that were affected by this:
 -  [End of the Road for Google Drive in Transmit](https://blog.panic.com/end-of-the-road-for-google-drive-and-transmit/)
